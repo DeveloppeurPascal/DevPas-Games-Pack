@@ -1,0 +1,15 @@
+[submodule "CodeRage2018-ChristmasGame"]
+	path = CodeRage2018-ChristmasGame
+	url = https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame.git
+[submodule "WhereIsBernie-GGJ21"]
+	path = WhereIsBernie-GGJ21
+	url = https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21.git
+[submodule "BoiteAMeuh"]
+	path = BoiteAMeuh
+	url = https://github.com/DeveloppeurPascal/BoiteAMeuh.git
+[submodule "TetrisLike"]
+	path = TetrisLike
+	url = https://github.com/DeveloppeurPascal/TetrisLike.git
+[submodule "Casse-Briques"]
+	path = Casse-Briques
+	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
