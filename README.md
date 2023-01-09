@@ -25,6 +25,10 @@ https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame
 
 Simple jeu de cibles qu'il faut toucher en évitant les mauvaises dans une ambiance festive de Noël.
 
+* LDJAM52-Harvest
+ 
+ A multi platform game for Ludum Dare 52 theme "Harvest" made in Delphi with FireMonkey.
+
 * TetrisLike
 https://github.com/DeveloppeurPascal/TetrisLike
 

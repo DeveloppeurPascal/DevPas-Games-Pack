@@ -13,3 +13,6 @@
 [submodule "Casse-Briques"]
 	path = Casse-Briques
 	url = https://github.com/DeveloppeurPascal/Casse-Briques.git
+[submodule "LDJAM52-Harvest"]
+	path = LDJAM52-Harvest
+	url = https://github.com/DeveloppeurPascal/LDJAM52-Harvest.git
