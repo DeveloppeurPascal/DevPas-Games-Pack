@@ -25,7 +25,8 @@ https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame
 
 Simple jeu de cibles qu'il faut toucher en évitant les mauvaises dans une ambiance festive de Noël.
 
-* LDJAM52-Harvest
+* Colarvest (Ludum Dare 52 "Harvest")
+https://github.com/DeveloppeurPascal/LDJAM52-Harvest
  
  A multi platform game for Ludum Dare 52 theme "Harvest" made in Delphi with FireMonkey.
 
@@ -34,7 +35,7 @@ https://github.com/DeveloppeurPascal/TetrisLike
 
 Un Tetris jouable au clavier ou en tactile.
 
-* WhereIsBernie-GGJ21
+* Where Is Bernie (global Game Jam 2021)
 https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21
 
 Un autre jeu de touche sur cibles réalisé lors d'une game jam hivernale.
