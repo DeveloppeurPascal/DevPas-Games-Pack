@@ -16,3 +16,6 @@
 [submodule "LDJAM52-Harvest"]
 	path = LDJAM52-Harvest
 	url = https://github.com/DeveloppeurPascal/LDJAM52-Harvest.git
+[submodule "TaquinDXBooks"]
+	path = TaquinDXBooks
+	url = https://github.com/DeveloppeurPascal/TaquinDXBooks.git
