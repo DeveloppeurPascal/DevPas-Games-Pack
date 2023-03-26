@@ -19,3 +19,6 @@
 [submodule "TaquinDXBooks"]
 	path = TaquinDXBooks
 	url = https://github.com/DeveloppeurPascal/TaquinDXBooks.git
+[submodule "Spooch"]
+	path = Spooch
+	url = https://github.com/DeveloppeurPascal/Spooch.git
