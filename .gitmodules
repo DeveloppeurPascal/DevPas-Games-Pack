@@ -25,3 +25,6 @@
 [submodule "Champter"]
 	path = Champter
 	url = https://github.com/DeveloppeurPascal/Champter.git
+[submodule "Egg-Hunter"]
+	path = Egg-Hunter
+	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
