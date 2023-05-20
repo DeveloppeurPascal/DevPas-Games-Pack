@@ -22,3 +22,6 @@
 [submodule "Spooch"]
 	path = Spooch
 	url = https://github.com/DeveloppeurPascal/Spooch.git
+[submodule "Champter"]
+	path = Champter
+	url = https://github.com/DeveloppeurPascal/Champter.git
