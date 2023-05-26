@@ -37,3 +37,6 @@
 [submodule "Blotatris"]
 	path = Blotatris
 	url = https://github.com/DeveloppeurPascal/Blotatris.git
+[submodule "Colblor"]
+	path = Colblor
+	url = https://github.com/DeveloppeurPascal/Colblor.git
