@@ -28,3 +28,6 @@
 [submodule "Egg-Hunter"]
 	path = Egg-Hunter
 	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
+[submodule "DAD48"]
+	path = DAD48
+	url = https://github.com/DeveloppeurPascal/DAD48.git
