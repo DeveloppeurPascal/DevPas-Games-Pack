@@ -43,3 +43,6 @@
 [submodule "Digikoo"]
 	path = Digikoo
 	url = https://github.com/DeveloppeurPascal/Digikoo.git
+[submodule "Eggpaq"]
+	path = Eggpaq
+	url = https://github.com/DeveloppeurPascal/Eggpaq.git
