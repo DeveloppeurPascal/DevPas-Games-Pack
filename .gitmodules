@@ -58,3 +58,6 @@
 [submodule "Pompach"]
 	path = Pompach
 	url = https://github.com/DeveloppeurPascal/Pompach.git
+[submodule "Pumpkin-Killer"]
+	path = Pumpkin-Killer
+	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
