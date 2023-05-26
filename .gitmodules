@@ -46,3 +46,6 @@
 [submodule "Eggpaq"]
 	path = Eggpaq
 	url = https://github.com/DeveloppeurPascal/Eggpaq.git
+[submodule "Laby10s"]
+	path = Laby10s
+	url = https://github.com/DeveloppeurPascal/Laby10s.git
