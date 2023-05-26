@@ -31,3 +31,6 @@
 [submodule "DAD48"]
 	path = DAD48
 	url = https://github.com/DeveloppeurPascal/DAD48.git
+[submodule "Bidioo"]
+	path = Bidioo
+	url = https://github.com/DeveloppeurPascal/Bidioo.git
