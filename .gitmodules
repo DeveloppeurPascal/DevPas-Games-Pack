@@ -40,3 +40,6 @@
 [submodule "Colblor"]
 	path = Colblor
 	url = https://github.com/DeveloppeurPascal/Colblor.git
+[submodule "Digikoo"]
+	path = Digikoo
+	url = https://github.com/DeveloppeurPascal/Digikoo.git
