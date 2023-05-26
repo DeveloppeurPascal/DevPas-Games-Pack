@@ -52,3 +52,6 @@
 [submodule "Ok-Ducky"]
 	path = Ok-Ducky
 	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
+[submodule "Pairpix"]
+	path = Pairpix
+	url = https://github.com/DeveloppeurPascal/Pairpix.git
