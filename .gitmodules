@@ -64,3 +64,6 @@
 [submodule "Soap-Bubbles"]
 	path = Soap-Bubbles
 	url = https://github.com/DeveloppeurPascal/Soap-Bubbles.git
+[submodule "Blufo"]
+	path = Blufo
+	url = https://github.com/DeveloppeurPascal/Blufo.git
