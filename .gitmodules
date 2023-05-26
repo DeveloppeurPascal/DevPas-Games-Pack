@@ -61,3 +61,6 @@
 [submodule "Pumpkin-Killer"]
 	path = Pumpkin-Killer
 	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
+[submodule "Soap-Bubbles"]
+	path = Soap-Bubbles
+	url = https://github.com/DeveloppeurPascal/Soap-Bubbles.git
