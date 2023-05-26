@@ -34,3 +34,6 @@
 [submodule "Bidioo"]
 	path = Bidioo
 	url = https://github.com/DeveloppeurPascal/Bidioo.git
+[submodule "Blotatris"]
+	path = Blotatris
+	url = https://github.com/DeveloppeurPascal/Blotatris.git
