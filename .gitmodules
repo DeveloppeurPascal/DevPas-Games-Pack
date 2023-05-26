@@ -49,3 +49,6 @@
 [submodule "Laby10s"]
 	path = Laby10s
 	url = https://github.com/DeveloppeurPascal/Laby10s.git
+[submodule "Ok-Ducky"]
+	path = Ok-Ducky
+	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
