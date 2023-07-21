@@ -67,3 +67,6 @@
 [submodule "Blufo"]
 	path = Blufo
 	url = https://github.com/DeveloppeurPascal/Blufo.git
+[submodule "Sporgloo"]
+	path = Sporgloo
+	url = https://github.com/DeveloppeurPascal/Sporgloo.git
