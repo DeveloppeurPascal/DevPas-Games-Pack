@@ -28,45 +28,6 @@
 [submodule "Egg-Hunter"]
 	path = Egg-Hunter
 	url = https://github.com/DeveloppeurPascal/Egg-Hunter.git
-[submodule "DAD48"]
-	path = DAD48
-	url = https://github.com/DeveloppeurPascal/DAD48.git
-[submodule "Bidioo"]
-	path = Bidioo
-	url = https://github.com/DeveloppeurPascal/Bidioo.git
-[submodule "Blotatris"]
-	path = Blotatris
-	url = https://github.com/DeveloppeurPascal/Blotatris.git
-[submodule "Colblor"]
-	path = Colblor
-	url = https://github.com/DeveloppeurPascal/Colblor.git
-[submodule "Digikoo"]
-	path = Digikoo
-	url = https://github.com/DeveloppeurPascal/Digikoo.git
-[submodule "Eggpaq"]
-	path = Eggpaq
-	url = https://github.com/DeveloppeurPascal/Eggpaq.git
-[submodule "Laby10s"]
-	path = Laby10s
-	url = https://github.com/DeveloppeurPascal/Laby10s.git
-[submodule "Ok-Ducky"]
-	path = Ok-Ducky
-	url = https://github.com/DeveloppeurPascal/Ok-Ducky.git
-[submodule "Pairpix"]
-	path = Pairpix
-	url = https://github.com/DeveloppeurPascal/Pairpix.git
-[submodule "Pompach"]
-	path = Pompach
-	url = https://github.com/DeveloppeurPascal/Pompach.git
-[submodule "Pumpkin-Killer"]
-	path = Pumpkin-Killer
-	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
-[submodule "Soap-Bubbles"]
-	path = Soap-Bubbles
-	url = https://github.com/DeveloppeurPascal/Soap-Bubbles.git
-[submodule "Blufo"]
-	path = Blufo
-	url = https://github.com/DeveloppeurPascal/Blufo.git
 [submodule "Sporgloo"]
 	path = Sporgloo
 	url = https://github.com/DeveloppeurPascal/Sporgloo.git
