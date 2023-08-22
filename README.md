@@ -20,6 +20,11 @@ https://github.com/DeveloppeurPascal/Casse-Briques
 
 Basic version of a "brick breaker" type game.
 
+### Champter
+https://github.com/DeveloppeurPascal/Champter
+
+Arcade game where you have to collect mushrooms while avoiding traps, enemies and obstacles through dozens of levels.
+
 ### Christmas Game (Code Rage 2018)
 https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame
 
@@ -30,10 +35,20 @@ https://github.com/DeveloppeurPascal/LDJAM52-Harvest
  
 A multi platform game for [Ludum Dare 52](https://ldjam.com/events/ludum-dare/52) theme "Harvest" made in Delphi with FireMonkey.
 
+### Egg Hunter
+https://github.com/DeveloppeurPascal/Egg-Hunter
+ 
+Go on an egg hunt and grow the duck farm that will make you rich.
+
 ### Spooch
 https://github.com/DeveloppeurPascal/Spooch
 
 Travel through space avoiding enemy fire and ships.
+
+### Sporgloo
+https://github.com/DeveloppeurPascal/Sporgloo
+
+Real-time multiplayer game where you simply set off to discover the forest you've arrived in.
 
 ### Taquin DX Books
 https://github.com/DeveloppeurPascal/TaquinDXBooks

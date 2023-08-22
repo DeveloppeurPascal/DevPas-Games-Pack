@@ -20,6 +20,11 @@ https://github.com/DeveloppeurPascal/Casse-Briques
 
 Version de base d'un jeu de type "casse briques".
 
+### Champter
+https://github.com/DeveloppeurPascal/Champter
+
+Jeu d'arcade où on doit ramasser des champignons en évitant les pièges, ennemis et obstacles à travers des dizaines de niveaux.
+
 ### Christmas Game (Code Rage 2018)
 https://github.com/DeveloppeurPascal/CodeRage2018-ChristmasGame
 
@@ -30,10 +35,20 @@ https://github.com/DeveloppeurPascal/LDJAM52-Harvest
  
 Un jeu multiplateforme développé lors de la [Ludum Dare 52](https://ldjam.com/events/ludum-dare/52) ayant pour thème "Harvest".
 
+### Egg Hunter
+https://github.com/DeveloppeurPascal/Egg-Hunter
+ 
+Partez à la chasse aux oeufs et faites prospérer l'élevage de canards qui vous rendra riche.
+
 ### Spooch
 https://github.com/DeveloppeurPascal/Spooch
 
 Parcourrez l'espace en évitant les tirs et vaisseaux enemis.
+
+### Sporgloo
+https://github.com/DeveloppeurPascal/Sporgloo
+
+Jeu multijoueurs en temps réel où vous devez simplement vous partir à la découverte de la forêt dans laquelle vous êtes arrivé.
 
 ### Taquin DX Books
 https://github.com/DeveloppeurPascal/TaquinDXBooks
