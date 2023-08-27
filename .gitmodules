@@ -31,3 +31,6 @@
 [submodule "Sporgloo"]
 	path = Sporgloo
 	url = https://github.com/DeveloppeurPascal/Sporgloo.git
+[submodule "Pumpkin-Killer"]
+	path = Pumpkin-Killer
+	url = https://github.com/DeveloppeurPascal/Pumpkin-Killer.git
