@@ -40,6 +40,21 @@ https://github.com/DeveloppeurPascal/Egg-Hunter
  
 Partez à la chasse aux oeufs et faites prospérer l'élevage de canards qui vous rendra riche.
 
+### Où est Bernie (Global Game Jam 2021)
+https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21
+
+Un autre jeu de clic sur cibles réalisé lors d'une game jam hivernale.
+
+### Pompach
+https://github.com/DeveloppeurPascal/Pompach
+
+Un jeu de réflexes. Rechargez des batteries en poussant les bons interrupteurs.
+
+### Pumpkin Killer
+https://github.com/DeveloppeurPascal/Pumpkin-Killer
+
+A Halloween toutes les citrouilles sont de sortie. Certaines sont souriantes et gentielles, d'autres sournoises et méchantes. Saurez-vous éliminer les mauvaises ?
+
 ### Spooch
 https://github.com/DeveloppeurPascal/Spooch
 
@@ -59,11 +74,6 @@ Jeu de taquin multiplateforme développé en Delphi et utilisant l'API de [Delph
 https://github.com/DeveloppeurPascal/TetrisLike
 
 Un Tetris jouable au clavier ou en tactile.
-
-### Où est Bernie (Global Game Jam 2021)
-https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21
-
-Un autre jeu de clic sur cibles réalisé lors d'une game jam hivernale.
 
 ## Installation
 

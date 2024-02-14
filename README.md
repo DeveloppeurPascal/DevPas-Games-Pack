@@ -10,11 +10,6 @@ This code repository contains projects developed in Object Pascal language under
 
 ## Games list
 
-### Moo box
-https://github.com/DeveloppeurPascal/BoiteAMeuh
-
-A game of association rather intended for children. You have to recognize the animal whose sound you hear.
-
 ### Bricks breaker
 https://github.com/DeveloppeurPascal/Casse-Briques
 
@@ -39,6 +34,21 @@ A multi platform game for [Ludum Dare 52](https://ldjam.com/events/ludum-dare/52
 https://github.com/DeveloppeurPascal/Egg-Hunter
  
 Go on an egg hunt and grow the duck farm that will make you rich.
+
+### Moo box
+https://github.com/DeveloppeurPascal/BoiteAMeuh
+
+A game of association rather intended for children. You have to recognize the animal whose sound you hear.
+
+### Pompach
+https://github.com/DeveloppeurPascal/Pompach
+
+A game of reflexes. Recharge batteries by pushing the right switches.
+
+### Pumpkin Killer
+https://github.com/DeveloppeurPascal/Pumpkin-Killer
+
+Halloween brings out all the pumpkins. Some are smiling and cheerful, others sneaky and nasty. Can you get rid of the bad ones?
 
 ### Spooch
 https://github.com/DeveloppeurPascal/Spooch
@@ -86,7 +96,7 @@ git submodule update --remote
 
 ## License
 
-This project is under the MIT license. It's not the case for all of my other projects. Look as each one LICENSE and README.md file before doing garbage.
+This project is under the MIT license. It's not the case for all of my other projects. Take a look at every LICENSE and README.md file before doing garbage.
 
 ## How to ask a new feature, report a bug or a security issue ?
 
