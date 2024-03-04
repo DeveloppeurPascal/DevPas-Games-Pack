@@ -40,6 +40,11 @@ https://github.com/DeveloppeurPascal/BoiteAMeuh
 
 A game of association rather intended for children. You have to recognize the animal whose sound you hear.
 
+### Pairpix
+https://github.com/DeveloppeurPascal/Pairpix
+
+A memory game for children and adults.
+
 ### Pompach
 https://github.com/DeveloppeurPascal/Pompach
 

@@ -45,6 +45,11 @@ https://github.com/DeveloppeurPascal/WhereIsBernie-GGJ21
 
 Un autre jeu de clic sur cibles réalisé lors d'une game jam hivernale.
 
+### Pairpix
+https://github.com/DeveloppeurPascal/Pairpix
+
+Un jeu de mémoire pour les enfants et les adultes.
+
 ### Pompach
 https://github.com/DeveloppeurPascal/Pompach
 
