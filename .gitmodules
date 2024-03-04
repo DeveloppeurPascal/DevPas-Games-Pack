@@ -37,3 +37,6 @@
 [submodule "Pompach"]
 	path = Pompach
 	url = https://github.com/DeveloppeurPascal/Pompach.git
+[submodule "Pairpix"]
+	path = Pairpix
+	url = https://github.com/DeveloppeurPascal/Pairpix.git
