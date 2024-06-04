@@ -121,3 +121,16 @@ Vous pouvez utiliser l'un de ces services :
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
 ou si vous parlez français vous pouvez [vous abonner à Zone Abo](https://zone-abo.fr/nos-abonnements.php) sur une base mensuelle ou annuelle et avoir en plus accès à de nombreuses ressources en ligne (vidéos et articles).
+
+## Packs de projets
+
+Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale de projets je propose plusieurs packs de dépôts thématiques. Vous pouvez les utiliser pour télécharger les projets concernés et les consulter. Il est probable qu'ils ne soient pas compilables tels quels mais ça vous donnera une idée des projets open sources disponibles sur [mon compte GitHub](https://github.com/DeveloppeurPascal) et vous pourrez toujours y accéder directement.
+
+* [jeux vidéos](https://github.com/DeveloppeurPascal/DevPas-Games-Pack)
+* [utilitaires et applications mobiles](https://github.com/DeveloppeurPascal/DevPas-WorkingPrograms-Pack)
+* [librairies et composants](https://github.com/DeveloppeurPascal/DevPas-Components-Pack)
+* [l'intégralité des projets publics de mon compte](https://github.com/DeveloppeurPascal/_AllProjects)
+
+Pour préparer mon environnement de travail de développeur Delphi sur un nouvel ordinateur ou une nouvelle VM sous Windows j'ai également prévu [un script d'installation](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). Vous pouvez l'utiliser tel quel ou vous en inspirer si vous utilisez mes librairies ou composants.
+
+Si vous êtes plutôt à la recherche d'exemples et de démos pour savoir comment utiliser certaines fonctionnalités de Delphi regardez [ce dépôt de code](https://github.com/DeveloppeurPascal/Delphi-samples) et [sa liste d'autres dépôts d'exemples](https://github.com/DeveloppeurPascal/Delphi-samples/blob/main/OtherDelphiSampleRepositories.md).

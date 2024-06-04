@@ -121,3 +121,16 @@ You can use one of those services :
 * [Paypal](https://www.paypal.com/paypalme/patrickpremartin)
 
 or if you speack french you can [subscribe to Zone Abo](https://zone-abo.fr/nos-abonnements.php) on a monthly or yearly basis and get a lot of resources as videos and articles.
+
+## Project packages
+
+To simplify GitHub account backups or local installation of projects, I offer several thematic repository packs. You can use them to download the relevant projects and check them out. They're probably not compilable as is, but they'll give you an idea of the open source projects available on [my GitHub account](https://github.com/DeveloppeurPascal), and you'll still be able to access them directly.
+
+* [video games](https://github.com/DeveloppeurPascal/DevPas-Games-Pack)
+* [utilities and mobile applications](https://github.com/DeveloppeurPascal/DevPas-WorkingPrograms-Pack)
+* [libraries and components](https://github.com/DeveloppeurPascal/DevPas-Components-Pack)
+* [all the public projects in my account](https://github.com/DeveloppeurPascal/_AllProjects)
+
+To prepare my Delphi developer work environment on a new Windows computer or VM, I've also included [an installation script](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). You can use it as is, or take inspiration from it if you're using my libraries or components.
+
+If you're looking for examples and demos of how to use certain Delphi features, take a look at [this code repository](https://github.com/DeveloppeurPascal/Delphi-samples) and [its list of other example repositories](https://github.com/DeveloppeurPascal/Delphi-samples/blob/main/OtherDelphiSampleRepositories.md).
