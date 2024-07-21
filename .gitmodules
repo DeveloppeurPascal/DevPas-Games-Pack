@@ -40,3 +40,6 @@
 [submodule "Pairpix"]
 	path = Pairpix
 	url = https://github.com/DeveloppeurPascal/Pairpix.git
+[submodule "Ploumtris-KenneyJam2024"]
+	path = Ploumtris-KenneyJam2024
+	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
