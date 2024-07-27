@@ -45,6 +45,11 @@ https://github.com/DeveloppeurPascal/Pairpix
 
 A memory game for children and adults.
 
+### Ploumtris (Kenney Jam 2024)
+https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024
+
+A Tetris like game for plumbers who love video games without water leaks.
+
 ### Pompach
 https://github.com/DeveloppeurPascal/Pompach
 
