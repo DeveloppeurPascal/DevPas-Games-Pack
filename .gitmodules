@@ -43,3 +43,6 @@
 [submodule "Ploumtris-KenneyJam2024"]
 	path = Ploumtris-KenneyJam2024
 	url = https://github.com/DeveloppeurPascal/Ploumtris-KenneyJam2024.git
+[submodule "Gamolf-FMX-Game-Starter-Kit"]
+	path = Gamolf-FMX-Game-Starter-Kit
+	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
