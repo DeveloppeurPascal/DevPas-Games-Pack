@@ -1,12 +1,18 @@
 # Tous les jeux vidéo publics de DeveloppeurPascal en un seul dépôt
 
-[This page in english.](README.md)
+[This page in English.](README.md)
 
 Ensemble des codes sources des jeux diffusés sur [mon compte GitHub](https://github.com/DeveloppeurPascal). Ils sont essentiellement programmés en Delphi.
 
 Certains ont été développés [en direct sur Twitch](https://www.twitch.tv/patrickpremartin) lors de sessions de game coding. Vous pouvez en voir [les rediffusions sur Serial Streameur](https://serialstreameur.fr/jeux-video.php).
 
 Ce dépôt de code contient des projets développés en langage Pascal Objet sous Delphi. Vous ne savez pas ce qu'est Dephi ni où le télécharger ? Vous en saurez plus [sur ce site web](https://delphi-resources.developpeur-pascal.fr/).
+
+## Présentations et conférences
+
+### Twitch
+
+Suivez mes streams de développement de logiciels, jeux vidéo, applications mobiles et sites web sur [ma chaîne Twitch](https://www.twitch.tv/patrickpremartin) ou en rediffusion sur [Serial Streameur](https://serialstreameur.fr) la plupart du temps en français.
 
 ## Liste des jeux
 
