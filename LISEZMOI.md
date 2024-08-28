@@ -140,6 +140,7 @@ Afin de me simplifier les sauvegardes du compte GitHub ou l'installation locale 
 * [jeux vidéos](https://github.com/DeveloppeurPascal/DevPas-Games-Pack)
 * [utilitaires et applications mobiles](https://github.com/DeveloppeurPascal/DevPas-WorkingPrograms-Pack)
 * [librairies et composants](https://github.com/DeveloppeurPascal/DevPas-Components-Pack)
+* [modèles de dépôts de code et kits de démarrage de projets](https://github.com/DeveloppeurPascal/DevPas-TemplatesAndStarterKits-Pack)
 * [l'intégralité des projets publics de mon compte](https://github.com/DeveloppeurPascal/_AllProjects)
 
 Pour préparer mon environnement de travail de développeur Delphi sur un nouvel ordinateur ou une nouvelle VM sous Windows j'ai également prévu [un script d'installation](https://github.com/DeveloppeurPascal/__MyMinimalDependenciesForWorkingWithDelphi). Vous pouvez l'utiliser tel quel ou vous en inspirer si vous utilisez mes librairies ou composants.
