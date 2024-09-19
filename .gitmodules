@@ -46,3 +46,6 @@
 [submodule "Gamolf-FMX-Game-Starter-Kit"]
 	path = Gamolf-FMX-Game-Starter-Kit
 	url = https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit.git
+[submodule "Blufo"]
+	path = Blufo
+	url = https://github.com/DeveloppeurPascal/Blufo.git

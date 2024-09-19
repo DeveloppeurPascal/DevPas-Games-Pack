@@ -20,6 +20,11 @@ Making games isn't as complicated as it sounds. It can be fun, and it's educatio
 
 Delphi is fairly simple to use and learn. FireMonkey offers everything you need to create games. Try your hand at it, using [Delphi Game Engine](https://github.com/DeveloppeurPascal/Delphi-Game-Engine) for the basic functions, or directly using [this video game starter kit](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit).
 
+### Blufo
+https://github.com/DeveloppeurPascal/Blufo
+
+Clear the ground for an unobstructed landing.
+
 ### Bricks breaker
 https://github.com/DeveloppeurPascal/Casse-Briques
 

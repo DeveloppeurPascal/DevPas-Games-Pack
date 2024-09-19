@@ -20,6 +20,11 @@ Faire des jeux n'est pas aussi compliqué qu'il n'y parait. Ca peut être fun et
 
 Delphi est assez simple à utiliser et apprendre. FireMonkey propose tout ce qu'il faut pour créer des jeux. Tentez l'aventure en vous aidant de [Delphi Game Engine](https://github.com/DeveloppeurPascal/Delphi-Game-Engine) pour les fonctions de base ou en utilisant directement [ce kit de démarrage pour jeux vidéo](https://github.com/DeveloppeurPascal/Gamolf-FMX-Game-Starter-Kit).
 
+### Blufo
+https://github.com/DeveloppeurPascal/Blufo
+
+Dégagez le terrain pour pouvoir atterrir sans obstacle.
+
 ### Boite à meuh
 https://github.com/DeveloppeurPascal/BoiteAMeuh
 
