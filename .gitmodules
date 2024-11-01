@@ -49,3 +49,9 @@
 [submodule "Blufo"]
 	path = Blufo
 	url = https://github.com/DeveloppeurPascal/Blufo.git
+[submodule "Digikoo-v1-AppGameKit"]
+	path = Digikoo-v1-AppGameKit
+	url = https://github.com/DeveloppeurPascal/Digikoo-v1-AppGameKit.git
+[submodule "Digikoo-v2-Delphi"]
+	path = Digikoo-v2-Delphi
+	url = https://github.com/DeveloppeurPascal/Digikoo-v2-Delphi.git
